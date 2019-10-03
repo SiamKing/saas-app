@@ -62,3 +62,7 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'figaro'
+gem 'devise'
+gem 'milia'
+
+gem 'activerecord-session_store', github: 'rails/activerecord-session_store'
