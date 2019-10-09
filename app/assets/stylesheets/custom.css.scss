@@ -121,9 +121,9 @@
 
     font-stretch: expanded;
 
-    padding-top: 25px;
+    padding-top: 95px;
 
-    padding-bottom: 25px;
+    padding-bottom: 95px;
 
     margin-left: 15px;
 
@@ -174,5 +174,25 @@
 .extra {
 
     color: #5cb85c;
+
+}
+
+.no-side-padding {
+
+    padding-left: 0;
+
+    padding-right: 0;
+
+}
+
+.no-left-padding {
+
+    padding-left: 0 !important;
+
+}
+
+.no-right-padding {
+
+    padding-right: 0 !important;
 
 }
